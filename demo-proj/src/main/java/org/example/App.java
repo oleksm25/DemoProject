@@ -1,0 +1,13 @@
+package org.example;
+
+/**
+ * Hello !
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello !" );
+    }
+}
