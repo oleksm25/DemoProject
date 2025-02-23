@@ -14,6 +14,8 @@ public class App {
                 .filter(n -> n % 2 == 0)
                 .forEach(n -> System.out.println(n));
 
+        System.out.println("Changes #2  - oleksm");
+
         System.out.println("App finished!");
     }
 }
